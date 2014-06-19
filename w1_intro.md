@@ -1,21 +1,23 @@
-Java
-Apache Maven (similar to Ant)
-LensKit
-IntelliJ IDE
+## Used Software
+
+* Java
+* Apache Maven (similar to Ant)
+* LensKit
+* IntelliJ IDE
 
 
-Examples:
+## Examples of recommender systems
 
 
 
-Recommendation Algorithms
+## Recommendation Algorithms
 
-Summary Stats
+### Summary Stats
 
 Ex: tripAdvisor
 
-No need for attributes 
-Only the rating table will used
-Average of all ratings
+* No need for attributes 
+* Only the rating table will used
+* Average of all ratings
 
 ![Alt text](/images/non_personalized.png "Summary Stats")
