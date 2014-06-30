@@ -6,13 +6,9 @@
 * IntelliJ IDE
 
 
-## Examples of recommender systems
-
-
-
 ## Recommendation Algorithms
 
-### Summary Stats
+### Non-Personalized Summary Stats
 
 Ex: tripAdvisor
 
@@ -45,3 +41,16 @@ My friends like that so I may like it
 * Dimensionality reduction
 
 ![Alt text](/images/collaborative.png "Collaborative Filtering")
+
+
+## Amazon
+
+* In the listing page => Stars => summary stats
+
+* In show page => frequently bought item
+
+* In show page => More buying choices suggest other sellers depending on their review
+
+* Personalization level persistent based on (historical purchases, rating and browsing)
+
+* Explicit rating from reviews and implicit rating from purchases and browsing
