@@ -11,9 +11,10 @@ Query based on them
 
 Ex: search engine
 
-Weight = Term Frequency * Inverse Document Frequenty
+Weight = Term Frequency(TF) * Inverse Document Frequenty(IDF)
 
 TF = number of occurrences of a term in the document
+
 IDF = log(#documents/#documents with term) how rare the term exists in the document(s)
 
 Weight will be high if the work appeared frequently in the doc and didn't appear in many document(s)
